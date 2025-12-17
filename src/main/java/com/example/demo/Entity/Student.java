@@ -12,7 +12,7 @@ public class Student {
     private Integer id;
     private String name;
     private String email;
-    public int getId() {
+    public Integer getId() {
         return id;
     }
     public void setId(Integer id) {
